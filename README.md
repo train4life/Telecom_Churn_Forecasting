@@ -1,4 +1,5 @@
-# Overview: Welcome to the Telecom Customer Churn Prediction project! In this repository, you'll find the code and resources to forecast the churn of subscribing clients for a telecom company. The project's goal is to identify customers likely to unsubscribe from telecom services and offer them special plans and promotional codes to encourage them to stay.
+# Telecom Customer Churn
+Overview: Welcome to the Telecom Customer Churn Prediction project! In this repository, you'll find the code and resources to forecast the churn of subscribing clients for a telecom company. The project's goal is to identify customers likely to unsubscribe from telecom services and offer them special plans and promotional codes to encourage them to stay.
 
 Objective:
 The main objective of this project is to develop predictive models that accurately forecast customer churn and help the telecom company take proactive steps to retain those customers.
