@@ -30,9 +30,9 @@ Identified the model with the highest ROC-AUC score.
 Determined the best model for predicting customer churn.
 
 Models	ROC-AUC
-- 0	XGB DMatrix Model	0.853843
-- 1	Light GBM Model	0.851545
-- 2	Catboost GridSearch Model	0.850840
-- 3	Logistic Regression Model	0.819621
-- 4	GridSearchCV XGB Model	0.804871
-- 5	Dummy Model	0.500000
+- XGB DMatrix Model	0.853843
+- Light GBM Model	0.851545
+- Catboost GridSearch Model	0.850840
+- Logistic Regression Model	0.819621
+- GridSearchCV XGB Model	0.804871
+- Dummy Model	0.500000
